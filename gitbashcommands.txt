@@ -1,0 +1,4 @@
+ls
+git status
+git init
+git add <filename>
