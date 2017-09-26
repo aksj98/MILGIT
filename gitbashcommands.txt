@@ -1,4 +1,5 @@
 ls
 git status
 git init
+git add . (for all files)
 git add <filename>
